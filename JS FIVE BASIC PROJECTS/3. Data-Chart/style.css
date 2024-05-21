@@ -1,0 +1,14 @@
+.dashboard {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100vh;
+}
+
+#chartContainer{
+    width: 70%;
+    height: 70%;
+    border: 1px solid #f80b0b;
+    justify-content: center;
+    margin-left: 15rem;
+}
